@@ -1,0 +1,26 @@
+/* Styles for the Results component */
+.results-container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    text-align: center;
+  }
+  
+  .results-score {
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .results-score .score {
+    font-weight: bold;
+    color: #28a745;
+  }
+  
+  .results-score .total {
+    font-weight: bold;
+    color: #dc3545;
+  }
+  
